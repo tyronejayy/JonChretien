@@ -1,7 +1,7 @@
 #Website-Rebuild-JonChretien
 
 ## Live Link
-- https://tyronejayy.github.io/sass/index.html
+- https://tyronejayy.github.io/JonChretien/index.html
 
 ## Prevalent Technologies Used
 
@@ -28,8 +28,9 @@ Tools:
 
 ### Changelog
 
-2018-10-15:
+2018-10-17:
 - Content added
+- Fonts added
 - Readme Updated
 
 ## Contributors
