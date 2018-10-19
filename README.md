@@ -1,7 +1,7 @@
 #Website-Rebuild-JonChretien
 
 ## Live Link
-- https://tyronejayy.github.io/JonChretien/index.html
+- https://tyronejayy.github.io/jonchretien/index.html
 
 ## Prevalent Technologies Used
 
